@@ -18,7 +18,7 @@ Centralized learning and decentralized implementation strategy is followed in or
 use of all the available data during training. The system is trained on AirSim simulator.
 
 
-![FOV of Drones]([http://url/to/img.png](https://github.com/BaluHarshavardan99/Mutli-Agent-Reinforcement-Learning-for-UAV-Fleet-Management/blob/main/Images/FOV%20OF%20ALL%20DRONES%20(1)%20(1).jpg)https://github.com/BaluHarshavardan99/Mutli-Agent-Reinforcement-Learning-for-UAV-Fleet-Management/blob/main/Images/FOV%20OF%20ALL%20DRONES%20(1)%20(1).jpg))
+![FOV of Drones](Images/FOV_OF_ALL_DRONES.png)
 
 
 
