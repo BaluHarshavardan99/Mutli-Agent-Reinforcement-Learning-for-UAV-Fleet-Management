@@ -17,5 +17,9 @@ the next state coordinates in order to achieve the maximum coverage of the field
 Centralized learning and decentralized implementation strategy is followed in order to make
 use of all the available data during training. The system is trained on AirSim simulator.
 
-![Alt Text]([image_url](https://github.com/BaluHarshavardan99/Mutli-Agent-Reinforcement-Learning-for-UAV-Fleet-Management/blob/main/Images/FOV%20OF%20ALL%20DRONES%20(1)%20(1).jpg)https://github.com/BaluHarshavardan99/Mutli-Agent-Reinforcement-Learning-for-UAV-Fleet-Management/blob/main/Images/FOV%20OF%20ALL%20DRONES%20(1)%20(1).jpg)
+
+![FOV of Drones]([http://url/to/img.png](https://github.com/BaluHarshavardan99/Mutli-Agent-Reinforcement-Learning-for-UAV-Fleet-Management/blob/main/Images/FOV%20OF%20ALL%20DRONES%20(1)%20(1).jpg)https://github.com/BaluHarshavardan99/Mutli-Agent-Reinforcement-Learning-for-UAV-Fleet-Management/blob/main/Images/FOV%20OF%20ALL%20DRONES%20(1)%20(1).jpg))
+
+
+
 
