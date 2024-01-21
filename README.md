@@ -1,4 +1,4 @@
-# Multi-Agent-Reinforcement-Learning-for-UAV-Fleet-Management
+# Multi-Agent Reinforcement Learning for UAV Fleet Management
 The code for this project isn't made public yet as the project is still in progress.
 
 # Abstarct:
