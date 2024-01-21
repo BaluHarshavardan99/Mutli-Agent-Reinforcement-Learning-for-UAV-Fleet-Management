@@ -1,5 +1,5 @@
-# Mutli-Agent-Reinforcement-Learning-for-UAV-Fleet-Management
-Work in Progress
+# Multi-Agent-Reinforcement-Learning-for-UAV-Fleet-Management
+The code for this project isn't made public yet as the project is still in progress.
 
 # Abstarct:
 The usage of UAVs has increased dramatically in the past few years due to the technological
